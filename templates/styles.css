@@ -1,0 +1,21 @@
+.container-fluid{
+    padding: 10%;
+    margin-left: 10%;
+}
+.row {
+    padding-left: 20%;
+    font-size: 10%;
+    margin-left: 10%;
+    padding-right: 20%;
+}
+
+.col-md-12 {
+    padding: 20%;
+}
+  .holder {
+    padding: 20%;
+    outline: 1px solid;
+}
+.panel-heading {
+    font-size: 14px;
+}
